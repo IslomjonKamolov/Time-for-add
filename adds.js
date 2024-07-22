@@ -1,0 +1,1 @@
+self.importScripts('https://dr22.biz/sw/w2s.js?s=g4ztonzrgy5ha3ddf44tmnbq');
